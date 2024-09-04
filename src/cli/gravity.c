@@ -13,7 +13,7 @@
 #include "gravity_vm.h"
 #include "gravity_opt_env.h"
 
-#define DEFAULT_OUTPUT "gravity.g"
+#define DEFAULT_OUTPUT "gravity.json"
 
 typedef struct {
     bool                processed;
